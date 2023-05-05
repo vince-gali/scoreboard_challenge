@@ -1,0 +1,27 @@
+.main-card{
+    background-color: red;
+    
+}
+
+
+
+.bg-test{
+    background-color: rgb(113, 50, 113);
+}
+
+
+.card-home{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 15rem;
+    height: 8rem;
+    width: 15rem;
+    
+}
+
+.bg-img{
+    background-image: url(https://i.pinimg.com/originals/53/41/3a/53413a32345c0e9bbf79de169812f2ea.jpg);
+    background-position: center;
+    /* background-size: cover; */
+    /* background-repeat: none; */
+}
